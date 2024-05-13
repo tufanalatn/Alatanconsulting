@@ -5,3 +5,8 @@
 	logallrefupdates = true
 	symlinks = false
 	ignorecase = true
+	autocrlf = true
+[remote "origin"]
+	url = git@github.com:tufanalatn/tfsvc-demo.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+	pushurl = git@github.com:tufanalatn/tfsvc-demo.git
