@@ -9,7 +9,7 @@ prompt = "Once upon a time"
 
 # Call the OpenAI API to generate a completion NEW BRANCH COMMIT ICIN EK 
 response = openai.Completion.create(
-  model="text-davinci-002",
+  model="davinci-002",
   prompt=prompt,
   max_tokens=50
 )
