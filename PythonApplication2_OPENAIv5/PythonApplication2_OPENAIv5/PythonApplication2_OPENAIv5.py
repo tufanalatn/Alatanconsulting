@@ -7,7 +7,7 @@ openai.api_key = api_key
 # Define the prompt for the completion of THIS TASK 
 prompt = "Once upon a time"
 
-# Call the OpenAI API to generate a completion
+# Call the OpenAI API to generate a completion NEW BRANCH
 response = openai.Completion.create(
   model="text-davinci-002",
   prompt=prompt,
