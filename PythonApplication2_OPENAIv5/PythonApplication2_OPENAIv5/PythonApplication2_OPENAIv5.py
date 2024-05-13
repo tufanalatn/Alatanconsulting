@@ -4,7 +4,7 @@ import openai
 api_key = "sk-proj-mH3dmV3Ip8jwHtVrwG7DT3BlbkFJRtcg6UGU8GKD7hdMRh7S"
 openai.api_key = api_key
 
-# Define the prompt for the completion
+# Define the prompt for the completion of THIS TASK 
 prompt = "Once upon a time"
 
 # Call the OpenAI API to generate a completion
