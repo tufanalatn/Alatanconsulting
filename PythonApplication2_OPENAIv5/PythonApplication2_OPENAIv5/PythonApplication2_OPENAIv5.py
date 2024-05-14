@@ -1,7 +1,7 @@
 import openai
 
 # Set your OpenAI API key
-api_key = "sk-proj-mH3dmV3Ip8jwHtVrwG7DT3BlbkFJRtcg6UGU8GKD7hdMRh7S"
+api_key = "sk-proj-TNVBotjW6KpIabHeQcIGT3BlbkFJ30HiEBSWctAXSVykrzRm"
 openai.api_key = api_key
 
 # Define the prompt for the completion of THIS TASK 
